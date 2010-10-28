@@ -1,0 +1,10 @@
+Bloggerbot was an AIM->Blogger publishing tool using xml-rpc. 
+
+Using BloggerBot is quite simple, just follow these steps:
+
+1. add BloggerBot to your buddy list. If it isn't online, you can try the secondary screenname, BlogBot
+2. type this command: /register bloggerlogin bloggerpass where bloggerlogin and bloggerpass are the login and password you use to login to blogger.com
+3. type /list to display all the weblogs you can publish to. none will have a Y next to them, meaning you don't currently have a default weblog set
+4. pick the weblog you want to publish to, and note the id NUMBER of the weblog
+5. type /default blogidnumber where blogidnumber is the number you just noted
+6. start posting..every message you send to the bot is automatically posted and published to your weblog. it's that easy.

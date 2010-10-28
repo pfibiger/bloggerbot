@@ -1,0 +1,31 @@
+<bloggerbot>
+
+	<database>
+		<name>bloggerbot</name>
+		<host>localhost</host>
+		<user></user>
+		<password></password>
+	</database>
+
+	<blogger>
+		<appkey></appkey>
+		<host>plant.blogger.com</host>
+		<path>/api/RPC2</path>
+		<port>80</port>
+	</blogger>
+
+	<aim>
+		<delay>5</delay>
+		<screenname></screenname>
+		<password></password>
+	</aim>
+
+	<logs>
+		<send>sendlog.txt</send>
+	</logs>
+
+	<debug>
+		<level>0</level>
+	</debug>
+
+</bloggerbot>
